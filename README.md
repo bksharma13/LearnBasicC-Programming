@@ -1,4 +1,4 @@
-# LearnBasicC-Programming
+# Learn Basic C# Programming
 This repo has some programs for practising c# coding
 
 Assignment 1:
